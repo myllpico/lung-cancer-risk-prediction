@@ -1,0 +1,1 @@
+Four machine learning models (Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting) were evaluated for lung cancer risk prediction using demographic, lifestyle, and symptom-related features. 
